@@ -1,5 +1,5 @@
 {
-  "name": "gastby-plugin-olark",
+  "name": "gatsby-plugin-olark",
   "version": "1.0.0",
   "description": "Plugin to add Olark chat widget to your site",
   "main": "index.js",
